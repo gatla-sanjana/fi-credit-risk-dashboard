@@ -1,4 +1,4 @@
-# Build the Power BI version (about 30-40 minutes)
+# Build the Power BI version
 
 Power BI Desktop is free for Windows: search "Power BI Desktop" in the Microsoft Store, install it and sign in (a work or school account may be requested; a personal Microsoft account often works for Desktop).
 
